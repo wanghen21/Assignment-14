@@ -24,4 +24,5 @@ Riders' starting and ending locations are similar across the city. It indicates 
 
 ![End station](https://user-images.githubusercontent.com/80020446/130354915-298e015b-a48a-4a5f-8e35-424bc1dba970.JPG)
 
-
+#### Summary 
+The visualizations do tell the story. More subscribers utilize the bike than regular users, more male utilize the bikes more than females and more usage during the weekdays than weekends. These indicators are great but also implies more details. NYC is a big city. Higher concentration of population may need a share bike operation. Similar operation for city that is more spread out like Seattle, may not seen the same result. In order to make a sound recommendation, we need to gauge if the locations are similar in other factors. 
